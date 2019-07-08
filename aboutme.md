@@ -20,7 +20,6 @@ subtitle: Now I'm a lecturer @NNU
 ### Services:
 
 **Reviewer for the following conference(s) and journal(s):**
-
 - Pattern Recognition (PR)
 - Pattern Recognition Letters (PRL)
 - Machine Vision and Applications (MVAP)
