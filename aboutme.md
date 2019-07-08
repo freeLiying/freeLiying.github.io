@@ -25,4 +25,4 @@ subtitle: Now I'm a lecturer @NNU
 - Machine Vision and Applications (MVAP)
 - ICIP 2016, 2017, 2018, 2019
 
-If you are interested about NNU, please visit [my homepage @NNU](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29).
+If you are interested about NNU, please visit [my homepage @NNU](http://schools.njnu.edu.cn/computer/person/ying-li).
