@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ying Li's Homepage
-subtitle: Lecturer at Nanjing University of Technology (NNU)
+title: Home
+subtitle: Nanjing University of Technology (NNU)
 use-site-title: true
 ---
 
@@ -21,7 +21,7 @@ Dr. Ying Li joined the School of Computer and Technology, Nanjing Normal Univers
 
 ### Recommended Links:
 - Prof. [Xiangwei Kong](https://person.zju.edu.cn/en/0015183), supervisor at Zhejiang University.
-- Prof. [Qi Tian](http://www.cs.utsa.edu/~qitian/) co-supervisor at UTSA.
+- Prof. [Qi Tian](http://www.cs.utsa.edu/~qitian/), co-supervisor at UTSA.
 - Dr. [Liang Zheng](http://www.liangzheng.com.cn/index.html), mentor at Australian National University.
 - Dr. [Song Bai](www.songbai.site), mentor at Oxford.
 - Dr. [Fuqing Zhu](https://sites.google.com/site/fqzhu001/) & Dr. [Jun Guo](https://sites.google.com/site/eeguojun), lab-mates at DUT.
