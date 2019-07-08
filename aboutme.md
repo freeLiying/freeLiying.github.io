@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Now I'm a lecturer @NNU
+subtitle: Address: Room 107, Mingli Building, No.1 Wenyuan Road Qixia District, Nanjing, P.R.China 210046
 ---
 
 ### Working Experiences:
@@ -17,12 +17,21 @@ subtitle: Now I'm a lecturer @NNU
 - ME, Signal and Information Processing, Dalian University of Technology (DUT) (Sep 2012 – Aug 2014)
 - BE, Electronic and Information Engineering, Dalian University of Technology (DUT) (Sep 2008 – Jun 2012)
 
-### Services:
+### Academic Activities:
 
 **Reviewer for the following conference(s) and journal(s):**
 - Pattern Recognition (PR)
 - Pattern Recognition Letters (PRL)
 - Machine Vision and Applications (MVAP)
 - ICIP 2016, 2017, 2018, 2019
+
+### Selected Awards:
+
+- Best paper candidate award in 2016 IEEE International Symposium on Multimedia (ISM), 2016
+- National Master Scholarship, Dalian University of Technology, 2013
+- Outstanding Graduate of Liaoning Province, China, 2012
+- National Scholarship, 2009 & 2010
+- First Prize of National Math Contest for High School Students (Provincial Competition Area), Jan 2008
+- ……
 
 If you are interested about NNU, please visit [my homepage @NNU](http://schools.njnu.edu.cn/computer/person/ying-li).
