@@ -21,10 +21,8 @@ description: Personal Homepage
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Publications:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://schools.njnu.edu.cn/computer/person/ying-li"
+  Publications: "publications"
+  @NNU: "http://schools.njnu.edu.cn/computer/person/ying-li"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -88,7 +86,7 @@ share-links-active:
   # twitter: true
   # facebook: true
   # linkedin: true
-  emai: true
+  email: true
   google: true
 
 # How to display the link to the website in the footer
