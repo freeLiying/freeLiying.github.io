@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: @ Room 107, Mingli Building, No.1 Wenyuan Road Qixia District, Nanjing, P.R.China 210046
+subtitle: @NNU
 ---
 
 ### Working Experiences:
