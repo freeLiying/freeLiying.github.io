@@ -23,5 +23,5 @@ Dr. Ying Li joined the School of Computer and Technology, Nanjing Normal Univers
 - Prof. [Xiangwei Kong](https://person.zju.edu.cn/en/0015183), supervisor at Zhejiang University.
 - Prof. [Qi Tian](http://www.cs.utsa.edu/~qitian/), co-supervisor at UTSA.
 - Dr. [Liang Zheng](http://www.liangzheng.com.cn/index.html), mentor at Australian National University.
-- Dr. [Song Bai](http://www.songbai.site), mentor at Oxford.
+- Dr. [Song Bai](http://www.songbai.site), mentor at University of Oxford.
 - Dr. [Fuqing Zhu](https://sites.google.com/site/fqzhu001/) & Dr. [Jun Guo](https://sites.google.com/site/eeguojun), lab-mates at DUT.
