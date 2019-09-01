@@ -18,11 +18,12 @@ title: Bio
 
 ### Academic Activities:
 
-**Reviewer for the following conference(s) and journal(s):**
+**Reviewer / PC Member for the following journal(s) and conference(s):**
 - Pattern Recognition (PR)
 - Pattern Recognition Letters (PRL)
 - Machine Vision and Applications (MVAP)
 - ICIP 2016, 2017, 2018, 2019
+- ACM Multimedia Asia 2019
 
 ### Selected Awards:
 
