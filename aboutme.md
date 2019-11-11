@@ -5,7 +5,7 @@ title: Bio
 
 ### Working Experiences:
 
-- Lecturer, School of Computer Science and Technology, **Nanjing Normal University (NNU)** (Jun 2019 - )
+- Assistant Professor, School of Computer Science and Technology, **Nanjing Normal University (NNU)** (Jun 2019 - )
 - Research Engineer (Intern), **Noah's Ark Lab of Huawei** (Aug 2018 - May 2019)
 - Research Assistant (Intern), **Beijing Institue of Electronics Technology and Application** (Mar 2014 - Aug 2014)
 
