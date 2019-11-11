@@ -7,7 +7,7 @@ use-site-title: true
 
 ### Short Bio
 
-**Ying Li** is currently a lecturer in the School of Computer and Technology, Nanjing Normal University (NNU).
+**Ying Li** is currently an Assistant Professor in the School of Computer and Technology, Nanjing Normal University (NNU).
 
 She received her Ph.D. degree, M.E. degree and B.E. degree from Dalian University of Technology (DUT) in 2019, 2015 and 2012, respectively, advised by Prof. [Xiangwei Kong](https://person.zju.edu.cn/en/0015183). Her research interests are computer vision and pattern recognition.
 
