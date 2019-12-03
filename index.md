@@ -18,7 +18,7 @@ She was a visiting student at University of Texas at San Antonio, supervised by 
 ### Recent News:
 
 + 2019.09.15: one paper about graph fusion for image retrieval is accepted by TCSVT [[pdf](https://ieeexplore.ieee.org/document/8850059/authors)].
-+ 2019.06.01: I join the School of Computer and Technology, Nanjing Normal University (NNU) as a lecturer.
++ 2019.06.01: I join the School of Computer and Technology, Nanjing Normal University (NNU) as an Assistant Professor.
 
 ### Recommended Links:
 - Prof. [Xiangwei Kong](https://person.zju.edu.cn/en/0015183), supervisor at Zhejiang University.
