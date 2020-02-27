@@ -93,5 +93,5 @@ yelp:
 
 google:
   name: "Google scholar"
-  baseURL: "https://scholar.google.com"
+  baseURL: "https://scholar.google.com/"
   icon: "fa-google"
