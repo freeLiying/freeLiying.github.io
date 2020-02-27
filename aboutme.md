@@ -19,10 +19,13 @@ title: Bio
 ### Academic Activities:
 
 **Reviewer / PC Member for the following journal(s) and conference(s):**
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - Pattern Recognition (PR)
 - Pattern Recognition Letters (PRL)
 - Machine Vision and Applications (MVAP)
-- ICIP 2016, 2017, 2018, 2019
+- ACM MM 2020
+- IJCAI 2020 Demo Track
+- ICIP 2016, 2017, 2018, 2019, 2020
 - ACM Multimedia Asia 2019
 
 ### Selected Awards:
