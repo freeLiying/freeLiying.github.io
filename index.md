@@ -16,7 +16,8 @@ She worked as an intern in the Computer Vision group at the Noah's Ark Lab of Hu
 She was a visiting student at University of Texas at San Antonio, supervised by Prof. Qi Tian from Dec 2015 to Dec 2017.
 
 ### Recent News:
-
++ 2020.02.27: I will serve as a TPC member for ACM International Conference on Multimedia 2020.
++ 2020.01.14: I will serve as a member of the Program Committee (PC) of the 2020 edition of the IJCAI Demonstrations Track.
 + 2019.09.15: one paper about graph fusion for image retrieval is accepted by TCSVT [[pdf](https://ieeexplore.ieee.org/document/8850059/authors)].
 + 2019.06.01: I join the School of Computer and Technology, Nanjing Normal University (NNU) as an Assistant Professor.
 
