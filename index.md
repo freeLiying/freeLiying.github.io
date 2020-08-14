@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ying Li
-subtitle: Nanjing University of Technology (NNU)
+subtitle: Nanjing Normal University (NNU)
 use-site-title: true
 ---
 
