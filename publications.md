@@ -5,7 +5,7 @@ title: Publications
 
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=DkC8JrcAAAAJ&hl=zh-CN) or [Research Gate homepage](https://www.researchgate.net/profile/Ying_Li37/research). 
 ### Journal Articles:
-1. **Ying Li**, Xiangwei Kong, Haiyan Fu, Qi Tian. "Node-sensitive Graph Fusion via Topo-correlation for Image Retrieval". IEEE Transactions on Circuits and Systems for Video Technology, 2019. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8850059)]
+1. **Ying Li**, Xiangwei Kong, Haiyan Fu, Qi Tian. "Node-sensitive Graph Fusion via Topo-correlation for Image Retrieval". IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 10, pp. 3777–3787, Oct. 2020, doi: 10.1109/TCSVT.2019.2944009. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8850059)]
 2. **Ying Li**, Xiangwei Kong, Haiyan Fu, Qi Tian. "Aggregating Hierarchical Binary Activations for Image Retrieval". Neurocomputing, 2018, 314: 65-77. [[pdf](https://www.sciencedirect.com/science/article/pii/S0925231218307501)]
 3. **Ying Li**, Xiangwei Kong, Haiyan Fu. "Exploring geometric information in CNN for image retrieval". Multimedia Tools and Applications, 2019, 78(21): 30585–30598. [[pdf](https://link.springer.com/article/10.1007/s11042-018-6414-6)]
 4. **Ying Li**, Xiangwei Kong, Haiyan Fu, Qi Tian. "Contextual Modeling on Auxiliary Points for Robust Image Reranking". Frontiers of Computer Science, 2019, 13(5): 1010–1022. [[pdf](https://link.springer.com/article/10.1007/s11704-018-7403-7)]
