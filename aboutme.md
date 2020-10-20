@@ -5,7 +5,7 @@ title: Bio
 
 ### Working Experiences:
 
-- Assistant Professor, School of Computer Science and Technology, **Nanjing Normal University (NNU)** (Jun 2019 - )
+- Assistant Professor, School of Computer and Electronic Information/ School of Artificial Intelligence, **Nanjing Normal University (NNU)** (Jun 2019 - )
 - Research Engineer (Intern), **Noah's Ark Lab of Huawei** (Aug 2018 - May 2019)
 - Research Assistant (Intern), **Beijing Institue of Electronics Technology and Application** (Mar 2014 - Aug 2014)
 
@@ -29,7 +29,7 @@ title: Bio
 - ACM Multimedia Asia 2019
 
 ### Selected Awards:
-
+- Outstanding reviewer award for Pattern Recognition Letters, June 2017.
 - Best paper candidate award in 2016 IEEE International Symposium on Multimedia (ISM), 2016
 - National Master Scholarship, Dalian University of Technology, 2013
 - Outstanding Graduate of Liaoning Province, China, 2012
