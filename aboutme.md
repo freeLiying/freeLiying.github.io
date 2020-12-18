@@ -27,6 +27,7 @@ title: Bio
 - IJCAI 2020 Demo Track
 - ICIP 2016, 2017, 2018, 2019, 2020
 - ACM Multimedia Asia 2019
+- CVPR 2021
 
 ### Selected Awards:
 - Outstanding reviewer award for Pattern Recognition Letters, June 2017.
