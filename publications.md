@@ -5,7 +5,7 @@ title: Publications
 
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=DkC8JrcAAAAJ&hl=zh-CN) or [Research Gate homepage](https://www.researchgate.net/profile/Ying_Li37/research). 
 ### Journal Articles:
-1. Hengheng Zhang, **Ying Li**, Zijie Zhuang, Lingxi Xie, Qi Tian. "3D-GAT: 3D-Guided Adversarial Transform Network for Person Re-identification in Unseen Domains". Pattern Recognition. (Accepted)
+1. Hengheng Zhang, **Ying Li***, Zijie Zhuang, Lingxi Xie, Qi Tian. "3D-GAT: 3D-Guided Adversarial Transform Network for Person Re-identification in Unseen Domains". Pattern Recognition. (Accepted)
 2. Xin Chen, **Ying Li***. "Deep Feature Learning with Manifold Embedding for Robust Image Retrieval". Algorithms, 13, 318, 2020. [[pdf]([[pdf](https://www.mdpi.com/1999-4893/13/12/318/pdf)])]
 3. **Ying Li**, Xiangwei Kong, Haiyan Fu, Qi Tian. "Node-sensitive Graph Fusion via Topo-correlation for Image Retrieval". IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 10, pp. 3777–3787, Oct. 2020, doi: 10.1109/TCSVT.2019.2944009. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8850059)]
 4. **Ying Li**, Xiangwei Kong, Haiyan Fu, Qi Tian. "Aggregating Hierarchical Binary Activations for Image Retrieval". Neurocomputing, 2018, 314: 65-77. [[pdf](https://www.sciencedirect.com/science/article/pii/S0925231218307501)]
