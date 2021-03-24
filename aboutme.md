@@ -18,6 +18,7 @@ title: Bio
 
 ### Academic Activities:
 - Session Chair of IJCAI 2020
+
 **Reviewer / PC Member for the following journal(s) and conference(s):**
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
 - IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
