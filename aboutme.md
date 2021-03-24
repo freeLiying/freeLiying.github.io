@@ -17,17 +17,19 @@ title: Bio
 - BE, Electronic and Information Engineering, Dalian University of Technology (DUT) (Sep 2008 – Jun 2012)
 
 ### Academic Activities:
-
+- Session Chair of IJCAI 2020
 **Reviewer / PC Member for the following journal(s) and conference(s):**
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
+- IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
 - Pattern Recognition (PR)
 - Pattern Recognition Letters (PRL)
 - Machine Vision and Applications (MVAP)
 - ACM MM 2020
-- IJCAI 2020 Demo Track
+- IJCAI 2020, 2021 Demo Track
 - ICIP 2016, 2017, 2018, 2019, 2020
 - ACM Multimedia Asia 2019
 - CVPR 2021
+- ICCV 2021
 
 ### Selected Awards:
 - Outstanding reviewer award for Pattern Recognition Letters, June 2017.
