@@ -17,6 +17,7 @@ title: Bio
 - BE, Electronic and Information Engineering, Dalian University of Technology (DUT) (Sep 2008 – Jun 2012)
 
 ### Academic Activities:
+- Guest Editor of [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition)
 - Session Chair of IJCAI 2020
 
 **Reviewer / PC Member for the following journal(s) and conference(s):**
