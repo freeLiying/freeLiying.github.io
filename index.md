@@ -16,6 +16,7 @@ She worked as an intern in the Computer Vision group at the Noah's Ark Lab of Hu
 She was a visiting student at University of Texas at San Antonio, supervised by Prof. Qi Tian from Dec 2015 to Dec 2017.
 
 ### Recent News:
++ 2021.04.13: I will serve as a Leading Guest Editor for Pattern Recognition (PR), Elsevier, SCI index, Top Journal, (The Important Dates and submission details are released here, welcome for your submissions: [Call for Papers](https://www.journals.elsevier.com/pattern-recognition/call-for-papers/fine-grained-object-retrieval-matching-and-ranking) (Open)
 + 2021.01.15: I will serve as a Session Chair for IJCAI 2020.
 + 2020.12.14: one paper about adversarial transform network for person Re-id is accepted by Pattern Recognition.
 + 2020.09.02: I recieved the 2020 Natural Science Foundation of Jiangsu Province (Youth Foundation).
