@@ -17,21 +17,27 @@ title: Bio
 - BE, Electronic and Information Engineering, Dalian University of Technology (DUT) (Sep 2008 – Jun 2012)
 
 ### Academic Activities:
-- Guest Editor of [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition)
+- Guest Editor of [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/call-for-papers/fine-grained-object-retrieval-matching-and-ranking) (SI: Fine-grained object retrieval, matching and ranking)
 - Session Chair of IJCAI 2020
 
 **Reviewer / PC Member for the following journal(s) and conference(s):**
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
+- IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
 - IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
 - Pattern Recognition (PR)
 - Pattern Recognition Letters (PRL)
 - Machine Vision and Applications (MVAP)
-- ACM MM 2020
+- ACM MM 2020, 2021
 - IJCAI 2020, 2021 Demo Track
 - ICIP 2016, 2017, 2018, 2019, 2020
 - ACM Multimedia Asia 2019
 - CVPR 2021
 - ICCV 2021
+
+### Fundings:
+- Natural Science Foundation of Jiangsu Province, Grant BK20200725, 2020.07-2023.06, CNY 200,000, Principal investigator
+- Natural Science Foundation of Jiangsu Higher Education Institutions of China, Grant 20KJB520028, 2020.12-2022.12, CNY 30,000, Principal investigator
+- Scientific Research Foundation of Nanjing Normal University, 2020.05-2023.5, CNY 80,000, Principal investigator
 
 ### Selected Awards:
 - Outstanding reviewer award for Pattern Recognition Letters, June 2017.
