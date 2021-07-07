@@ -15,11 +15,12 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 8. **Ying Li**, Bo Wang, Xiangwei Kong, Yanqing Guo. "Image Tampering Detection Using No-Reference Image Quality Metrics". Journal of Harbin Institute of Technology (New Series), 2014. (an extension of my ICDFI 2014 paper) [[pdf](http://hit.alljournals.cn/jhit_cn/ch/reader/create_pdf.aspx?file_no=20140610&flag=1&year_id=2014&quarter_id=6)]
 
 ### Conference Papers:
-1. Haiyan Fu, **Ying Li***, Hengheng Zhang, Jinfeng Liu, Tao Yao. "Rank-embedded Hashing for Large-scale Image Retrieval". In ICMR ’20: ACM International Conference on Multimedia Retrieval, Dublin, Ireland, 2020: 563-570. [[pdf](https://dl.acm.org/doi/abs/10.1145/3372278.3390716)]
-2. Jingjing Han, Mingyu Liu, Genlin Ji, Bin Zhao, Richen Liu, **Ying Li**. "Efficient Semantic Enrichment Process for Spatiotemporal Trajectories in Geospatial Environment." APWeb-WAIM 2020, pp. 342-350, 2020.
-3. **Ying Li**, Xiangwei Kong, Liang Zheng, Qi Tian. "Exploiting Hierarchical Activations of Neural Network for Image Retrieval". Proceedings of the 2016 ACM on Multimedia Conference (ACM MM), Amsterdam, Netherland, 2016: 132-136. [[pdf](http://dl.acm.org/citation.cfm?id=2967197)]
-4. Dekui Ma, Jian Liang, Xiangwei Kong, Ran He, **Ying Li**. "Discrete Cross-Modal Hashing for Efficient Multimedia Retrieval." Multimedia (ISM), 2016 IEEE International Symposium on. IEEE, 2016: 38-43. (Best paper candidate award) [[pdf](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7823584)]
-5. Han Wu, Xiangwei Kong, Hongxue Yang, **Ying Li**. "Sparse Feature Preservation for Relative Attribute Learning." Multimedia (ISM), 2016 IEEE International Symposium on. IEEE, 2016: 385-390. [[pdf](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7823652)]
+1. **Ying Li**, Hongwei Zhou, Yeyu Yin, Jiaquan Gao. "Multi-label Pattern Image Retrieval via Attention Mechanism Driven Graph Convolutional Network". Proceedings of the 29th ACM International Conference on Multimedia (ACM MM), Chengdu, China, 2021. (Accepted)
+2. Haiyan Fu, **Ying Li***, Hengheng Zhang, Jinfeng Liu, Tao Yao. "Rank-embedded Hashing for Large-scale Image Retrieval". In ICMR ’20: ACM International Conference on Multimedia Retrieval, Dublin, Ireland, 2020: 563-570. [[pdf](https://dl.acm.org/doi/abs/10.1145/3372278.3390716)]
+3. Jingjing Han, Mingyu Liu, Genlin Ji, Bin Zhao, Richen Liu, **Ying Li**. "Efficient Semantic Enrichment Process for Spatiotemporal Trajectories in Geospatial Environment." APWeb-WAIM 2020, pp. 342-350, 2020.
+4. **Ying Li**, Xiangwei Kong, Liang Zheng, Qi Tian. "Exploiting Hierarchical Activations of Neural Network for Image Retrieval". Proceedings of the 2016 ACM on Multimedia Conference (ACM MM), Amsterdam, Netherland, 2016: 132-136. [[pdf](http://dl.acm.org/citation.cfm?id=2967197)]
+5. Dekui Ma, Jian Liang, Xiangwei Kong, Ran He, **Ying Li**. "Discrete Cross-Modal Hashing for Efficient Multimedia Retrieval." Multimedia (ISM), 2016 IEEE International Symposium on. IEEE, 2016: 38-43. (Best paper candidate award) [[pdf](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7823584)]
+6. Han Wu, Xiangwei Kong, Hongxue Yang, **Ying Li**. "Sparse Feature Preservation for Relative Attribute Learning." Multimedia (ISM), 2016 IEEE International Symposium on. IEEE, 2016: 385-390. [[pdf](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7823652)]
 
 
 
