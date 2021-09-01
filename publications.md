@@ -5,7 +5,7 @@ title: Publications
 
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=DkC8JrcAAAAJ&hl=zh-CN) or [Research Gate homepage](https://www.researchgate.net/profile/Ying_Li37/research). 
 ### Journal Articles:
-1. Tao Yao, Yiru Li, Weili Guan, Gang Wang, **Ying Li**, Lianshan Yan, Qi Tian. "Discrete Robust Matrix Factorization Hashing for Large-scale Cross-media Retrieval". IEEE Transactions on Knowledge and Data Engineering, 2021. DOI: 10.1109/TKDE.2021.3107489. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525283]
+1. Tao Yao, Yiru Li, Weili Guan, Gang Wang, **Ying Li**, Lianshan Yan, Qi Tian. "Discrete Robust Matrix Factorization Hashing for Large-scale Cross-media Retrieval". IEEE Transactions on Knowledge and Data Engineering, 2021. DOI: 10.1109/TKDE.2021.3107489. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525283)]
 2. Hengheng Zhang, **Ying Li***, Zijie Zhuang, Lingxi Xie, Qi Tian. "3D-GAT: 3D-Guided Adversarial Transform Network for Person Re-identification in Unseen Domains". Pattern Recognition, 112 (107799), 2021. [[pdf](https://www.sciencedirect.com/science/article/pii/S0031320320306026)]
 3. Xin Chen, **Ying Li***. "Deep Feature Learning with Manifold Embedding for Robust Image Retrieval". Algorithms, 2020, 13(12): 318. [[pdf](https://www.mdpi.com/1999-4893/13/12/318/pdf)]
 4. **Ying Li**, Xiangwei Kong, Haiyan Fu, Qi Tian. "Node-sensitive Graph Fusion via Topo-correlation for Image Retrieval". IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 10, pp. 3777–3787, Oct. 2020, doi: 10.1109/TCSVT.2019.2944009. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8850059)]
