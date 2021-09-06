@@ -31,13 +31,14 @@ title: Bio
 - IJCAI 2020, 2021 Demo Track
 - ICIP 2016, 2017, 2018, 2019, 2020
 - ACM Multimedia Asia 2019
-- CVPR 2021
+- CVPR 2021, 2022
 - ICCV 2021
 
 ### Fundings:
-- Natural Science Foundation of Jiangsu Province, Grant BK20200725, 2020.07-2023.06, CNY 200,000, Principal investigator
-- Natural Science Foundation of Jiangsu Higher Education Institutions of China, Grant 20KJB520028, 2020.12-2022.12, CNY 30,000, Principal investigator
-- Scientific Research Foundation of Nanjing Normal University, 2020.05-2023.5, CNY 80,000, Principal investigator
+- Natural Science Foundation of China, Grant 62102186, 2022.01 - 2024.12, CNY 240,000, Principal investigator
+- Natural Science Foundation of Jiangsu Province, Grant BK20200725, 2020.07 - 2023.06, CNY 200,000, Principal investigator
+- Natural Science Foundation of Jiangsu Higher Education Institutions of China, Grant 20KJB520028, 2020.12 - 2022.12, CNY 30,000, Principal investigator
+- Scientific Research Foundation of Nanjing Normal University, 2020.05 - 2023.05, CNY 80,000, Principal investigator
 
 ### Selected Awards:
 - Outstanding reviewer award for Pattern Recognition Letters, June 2017.
