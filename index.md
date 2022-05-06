@@ -15,16 +15,21 @@ She worked as an intern in the Computer Vision group at the Noah's Ark Lab of Hu
 
 She was a visiting student at University of Texas at San Antonio, supervised by Prof. Qi Tian from Dec 2015 to Dec 2017.
 
+**欢迎对计算机视觉与模式识别等领域感兴趣的同学报考我的研究生或本科毕设及大创！本科科研助手持续招募中。（联系邮箱ying.li@njnu.edu.cn）**
+
 ### Recent News:
++ 2022.05.06: Two students are about to join my team. Welcome Erwan and Yuxiang!
++ 2022.01.27: one paper about video person Re-ID is accepted by SPL.
++ 2021.08.30: one paper about cross-media retrieval is accepted by TKDE.
 + 2021.08.19: I get the funding from NSFC under Grant 62102186.
 + 2021.07.04: one regular paper about pattern image retrieval is accepted by ACM MM 2021 as an **oral**!
-+ 2021.04.13: I will serve as a Leading Guest Editor for Pattern Recognition (PR), Elsevier, SCI index, Top Journal, (The Important Dates and submission details are released here, welcome for your submissions: [Call for Papers](https://www.journals.elsevier.com/pattern-recognition/call-for-papers/fine-grained-object-retrieval-matching-and-ranking) (Open)
-+ 2021.01.15: I will serve as a Session Chair for IJCAI 2020.
++ 2021.04.13: Serve as a Leading Guest Editor for Pattern Recognition (PR), Elsevier, SCI index, Top Journal (Closed)
++ 2021.01.15: Very honored to serve as a Session Chair for IJCAI 2020.
 + 2020.12.14: one paper about adversarial transform network for person Re-id is accepted by Pattern Recognition.
 + 2020.09.02: I recieved the 2020 Natural Science Foundation of Jiangsu Province (Youth Foundation).
 + 2020.06.08: one paper about deep hashing for image retrieval is accepted by ICMR 2020.
-+ 2020.02.27: I will serve as a TPC member for ACM International Conference on Multimedia 2020.
-+ 2020.01.14: I will serve as a member of the Program Committee (PC) of the 2020 edition of the IJCAI Demonstrations Track.
++ 2020.02.27: Serve as a TPC member for ACM International Conference on Multimedia 2020.
++ 2020.01.14: Serve as a member of the Program Committee (PC) of the 2020 edition of the IJCAI Demonstrations Track.
 + 2019.09.15: one paper about graph fusion for image retrieval is accepted by TCSVT.
 + 2019.06.01: I join the School of Computer and Technology, Nanjing Normal University (NNU) as an Assistant Professor.
 
