@@ -15,12 +15,13 @@ She worked as an intern in the Computer Vision group at the Noah's Ark Lab of Hu
 
 She was a visiting student at University of Texas at San Antonio, supervised by Prof. Qi Tian from Dec 2015 to Dec 2017.
 
-**欢迎对计算机视觉与模式识别等领域感兴趣的同学报考我的研究生或本科毕设及大创！本科科研助手持续招募中。（联系邮箱ying.li@njnu.edu.cn）**
+
 
 ### Recent News:
++ 2022.05.11: one paper about HyperGCN is accepted by IPM (Information Processing and Management). Congratulations to Yanjun!
 + 2022.05.06: Two students are about to join my team. Welcome Erwan and Yuxiang!
-+ 2022.01.27: one paper about video person Re-ID is accepted by SPL.
-+ 2021.08.30: one paper about cross-media retrieval is accepted by TKDE.
++ 2021.12.02: one paper about video person Re-ID is accepted by SPL.
++ 2021.08.30: one paper about cross-media retrieval is accepted by TKDE. Congratulations to Tao Yao！
 + 2021.08.19: I get the funding from NSFC under Grant 62102186.
 + 2021.07.04: one regular paper about pattern image retrieval is accepted by ACM MM 2021 as an **oral**!
 + 2021.04.13: Serve as a Leading Guest Editor for Pattern Recognition (PR), Elsevier, SCI index, Top Journal (Closed)
