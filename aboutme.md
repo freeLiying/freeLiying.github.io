@@ -4,8 +4,8 @@ title: Bio
 ---
 
 ### Working Experiences:
-
-- Assistant Professor, School of Computer and Electronic Information/ School of Artificial Intelligence, **Nanjing Normal University (NNU)** (Jun 2019 - )
+- Associate Professor, School of Computer and Electronic Information/ School of Artificial Intelligence, **Nanjing Normal University (NNU)** (Jul 2022 - )
+- Assistant Professor, School of Computer and Electronic Information/ School of Artificial Intelligence, **Nanjing Normal University (NNU)** (Jun 2019 - Jun 2022)
 - Research Engineer (Intern), **Noah's Ark Lab of Huawei** (Aug 2018 - May 2019)
 - Research Assistant (Intern), **Beijing Institue of Electronics Technology and Application** (Mar 2014 - Aug 2014)
 
@@ -17,6 +17,7 @@ title: Bio
 - BE, Electronic and Information Engineering, Dalian University of Technology (DUT) (Sep 2008 – Jun 2012)
 
 ### Academic Activities:
+- Associate Editor (AE) of [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/editorial-board/ying-li)
 - Guest Editor of [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/call-for-papers/fine-grained-object-retrieval-matching-and-ranking) (SI: Fine-grained object retrieval, matching and ranking)
 - Session Chair of IJCAI 2020
 
