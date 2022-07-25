@@ -7,7 +7,7 @@ use-site-title: true
 
 ### Short Bio
 
-**Ying Li** is currently an Assistant Professor in the School of Computer and Electronic Information/ School of Artificial Intelligence, Nanjing Normal University (NNU).
+**Ying Li** is currently an Associate Professor in the School of Computer and Electronic Information/ School of Artificial Intelligence, Nanjing Normal University (NNU).
 
 She received her Ph.D. degree, M.E. degree and B.E. degree from Dalian University of Technology (DUT) in 2019, 2015 and 2012, respectively, advised by Prof. [Xiangwei Kong](https://person.zju.edu.cn/en/0015183). Her research interests are computer vision and pattern recognition.
 
@@ -18,6 +18,7 @@ She was a visiting student at University of Texas at San Antonio, supervised by 
 
 
 ### Recent News:
++ 2022.07.14: I am appointed as an **Associate Editor (AE)** of **Pattern Recognition**.
 + 2022.05.11: one paper about HyperGCN is accepted by IPM (Information Processing and Management). Congratulations to Yanjun!
 + 2022.05.06: Two students are about to join my team. Welcome Erwan and Yuxiang!
 + 2021.12.02: one paper about video person Re-ID is accepted by SPL.
@@ -32,7 +33,7 @@ She was a visiting student at University of Texas at San Antonio, supervised by 
 + 2020.02.27: Serve as a TPC member for ACM International Conference on Multimedia 2020.
 + 2020.01.14: Serve as a member of the Program Committee (PC) of the 2020 edition of the IJCAI Demonstrations Track.
 + 2019.09.15: one paper about graph fusion for image retrieval is accepted by TCSVT.
-+ 2019.06.01: I join the School of Computer and Technology, Nanjing Normal University (NNU) as an Assistant Professor.
++ 2019.06.01: I join the School of Computer and Technology, Nanjing Normal University (NNU).
 
 ### Recommended Links:
 - Prof. [Xiangwei Kong](https://person.zju.edu.cn/en/0015183), supervisor at Zhejiang University.
