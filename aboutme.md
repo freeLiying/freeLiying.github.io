@@ -17,7 +17,7 @@ title: Bio
 - BE, Electronic and Information Engineering, Dalian University of Technology (DUT) (Sep 2008 – Jun 2012)
 
 ### Academic Activities:
-- Associate Editor (AE) of [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/editorial-board/ying-li)
+- Associate Editor (AE) of [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/editorial-board/ying-li) (Since Jul 2022)
 - Guest Editor of [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/call-for-papers/fine-grained-object-retrieval-matching-and-ranking) (SI: Fine-grained object retrieval, matching and ranking)
 - Session Chair of IJCAI 2020
 
@@ -36,7 +36,7 @@ title: Bio
 - ICCV 2021
 
 ### Fundings:
-- Natural Science Foundation of China, Grant 62102186, 2022.01 - 2024.12, CNY 240,000, Principal investigator
+- Natural Science Foundation of China, Grant 62102186, 2022.01 - 2024.12, CNY 300,000, Principal investigator
 - Natural Science Foundation of Jiangsu Province, Grant BK20200725, 2020.07 - 2023.06, CNY 200,000, Principal investigator
 - Natural Science Foundation of Jiangsu Higher Education Institutions of China, Grant 20KJB520028, 2020.12 - 2022.12, CNY 30,000, Principal investigator
 - Scientific Research Foundation of Nanjing Normal University, 2020.05 - 2023.05, CNY 80,000, Principal investigator
