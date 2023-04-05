@@ -18,6 +18,7 @@ She was a visiting student at University of Texas at San Antonio, supervised by 
 
 
 ### Recent News:
++ 2022.04.02: one paper about Two-Stage Pure Transformer (TsP-Tran) is accepted by ICMR 2023.
 + 2022.07.14: I am appointed as an **Associate Editor (AE)** of **Pattern Recognition**.
 + 2022.05.11: one paper about HyperGCN is accepted by IPM (Information Processing and Management). Congratulations to Yanjun!
 + 2022.05.06: Two students are about to join my team. Welcome Erwan and Yuxiang!
