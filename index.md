@@ -18,6 +18,7 @@ She was a visiting student at University of Texas at San Antonio, supervised by 
 
 
 ### Recent News:
++ 2025.03.12: A survey on composed image retrieval is accepted by ACM TOMM.
 + 2024.05.15: I am invited as a **Publicity Chair** of ACM MM Asia 2024.
 + 2023.05.08: I am invited as an **Area Chair (AC)** of **ACM MM 2023**. 
 + 2022.04.02: one paper about Two-Stage Pure Transformer (TsP-Tran) is accepted by ICMR 2023.
