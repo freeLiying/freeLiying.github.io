@@ -18,6 +18,12 @@ She was a visiting student at University of Texas at San Antonio, supervised by 
 
 
 ### Recent News:
++ 2025.12: one paper about RA-GCN for pattern image retrieval is accepted by PR.
++ 2025.10: one paper about MOHGCN for cross-modal retrieval is published by ACM TOMM.
++ 2025.08.23: I recieved the 2025 Natural Science Foundation of Jiangsu Province (BK20251869).
++ 2025.07: I am awarded the Young Scientific and Technological Talent Cultivation Program of Jiangsu Province (STJ-2025-535).
++ 2025.05.22: one paper for multi-label image retrieval is accepted by PR (publised in December 2025).
++ 2025.03.12: one paper about VG-Net is accepted by ICME 2025. Congratulations to Erwan!
 + 2025.03.12: A survey on composed image retrieval is accepted by ACM TOMM.
 + 2024.05.15: I am invited as a **Publicity Chair** of ACM MM Asia 2024.
 + 2023.05.08: I am invited as an **Area Chair (AC)** of **ACM MM 2023**. 
