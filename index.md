@@ -18,6 +18,7 @@ She was a visiting student at University of Texas at San Antonio, supervised by 
 
 
 ### Recent News:
++ 2026.07: We won the Best Student Paper **最佳学生论文奖** in ChinaMM 2026. Congratulations to Shuaiyu!
 + 2025.12: one paper about RA-GCN for pattern image retrieval is accepted by PR.
 + 2025.10: one paper about MOHGCN for cross-modal retrieval is published by ACM TOMM.
 + 2025.08.23: I recieved the 2025 Natural Science Foundation of Jiangsu Province (BK20251869).
@@ -26,7 +27,7 @@ She was a visiting student at University of Texas at San Antonio, supervised by 
 + 2025.03.12: one paper about VG-Net is accepted by ICME 2025. Congratulations to Erwan!
 + 2025.03.12: A survey on composed image retrieval is accepted by ACM TOMM.
 + 2024.05.15: I am invited as a **Publicity Chair** of ACM MM Asia 2024.
-+ 2023.05.08: I am invited as an **Area Chair (AC)** of **ACM MM 2023**. 
++ 2023.05.08: I am invited as an **Area Chair (AC)** of CACM MM 2023**. 
 + 2022.04.02: one paper about Two-Stage Pure Transformer (TsP-Tran) is accepted by ICMR 2023.
 + 2022.07.14: I am appointed as an **Associate Editor (AE)** of **Pattern Recognition**.
 + 2022.05.11: one paper about HyperGCN is accepted by IPM (Information Processing and Management). Congratulations to Yanjun!
